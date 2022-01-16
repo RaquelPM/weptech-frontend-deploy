@@ -1,0 +1,23 @@
+{
+  "name": "Weptech Travel App",
+  "short_name": "Weptech",
+  "lang": "pt-bt",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#944BBB",
+  "icons": [
+    {
+      "src": "./flechas_icon.svg",
+      "sizes": "40x40"
+    },
+    {
+      "src": "./car.svg",
+      "sizes": "110x80"
+    },
+    {
+      "src": "./flag_icon.svg",
+      "sizes": "192x192"
+    }
+  ],
+  "prefer_related_applications": false
+}
